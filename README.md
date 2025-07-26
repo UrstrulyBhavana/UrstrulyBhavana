@@ -1,38 +1,40 @@
-<h2 align="center">Hey there! I'm Bhavana 👋</h2>
+<h1 align="center">Hi there 👋, I'm Bhavana</h1>
 
 <p align="center">
-  💻 Front-End Developer | React | Redux | Firebase | SQL <br/>
-  🎯 Focused on clean UI, scalable architecture & real-world projects
+  <img src="https://komarev.com/ghpvc/?username=UrstrulyBhavana&label=Profile%20views&color=0e75b6&style=flat" alt="UrstrulyBhavana" />
 </p>
 
----
+<h3 align="center">Front-End Developer | React | Redux | Firebase</h3>
 
-### 🚀 About Me
-- 🧠 5.7+ years of experience across enterprise-level & personal projects
-- 🔨 Building interactive apps with **React.js**, **Redux Toolkit**, and **Firebase**
-- 🌐 Familiar with CMS workflows and HTML/CSS-driven UI implementations
-- 📍 Based in Hyderabad | Ex-Cognizant | Ex-GlobalLogic
+🔭 I’m currently working on:  
+💼 Building scalable React apps and polishing my portfolio projects.
 
----
+🌟 Highlight Projects:
+- 🔥 [Netflix GPT](https://github.com/UrstrulyBhavana/Netflix-UI-with-OpenAI-GPT-Powered-Recommendations) — AI-powered movie browser with OpenAI GPT integration.
+- 🛍️ [FashionHive](https://github.com/UrstrulyBhavana/FashionHive-Modern-Fashion-E-Commerce-Web-App) — Full multi-vendor e-commerce platform with React + Redux.
+- 🍽️ [FlavorFiesta](https://github.com/UrstrulyBhavana/FlavorFiesta-Food-Ordering-App) — Food menu & cart SPA with dynamic filters and React Router.
 
-### 🧩 Tech Stack
-- **Frontend:** React.js, Redux Toolkit, HTML, CSS3, Tailwind CSS, Bootstrap
-- **Backend / Tools:** Firebase, SQL, Git, REST APIs
-- **Other:** Adobe Photoshop, Figma, Visual Studio Code, GitHub
+📫 How to reach me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhavana-bm/)
 
 ---
 
-### 📌 Pinned Projects
+### 🛠 Tech Stack
 
-| Project | Description |
-|--------|-------------|
-| [🧠 Netflix GPT](https://github.com/UrstrulyBhavana/Netflix-UI-with-OpenAI-GPT-Powered-Recommendations) | OpenAI-powered movie search app with Firebase Auth, TMDB API, and GPT responses |
-| [🛍️ FashionHive](https://github.com/UrstrulyBhavana/FashionHive-Modern-Fashion-E-Commerce-Web-App) | Full-featured e-commerce platform with vendor/customer dashboards and invoices |
-| [🍔 BM Feast](https://github.com/UrstrulyBhavana/BM-Feast-Online-Delivery-App) | Food ordering system with menu filters, delivery flows, and intuitive UI |
-| [🥗 FlavorFiesta](https://github.com/UrstrulyBhavana/FlavorFiesta-Food-Ordering-App) | SPA for browsing restaurant menus and placing dynamic orders |
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 ---
 
-### 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/bhavana-bm/)
-- 📁 [GitHub Projects](https://github.com/UrstrulyBhavana?tab=repositories)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UrstrulyBhavana&show_icons=true&theme=react" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrstrulyBhavana&layout=compact&theme=react" />
+</p>
