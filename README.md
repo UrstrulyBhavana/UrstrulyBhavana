@@ -4,14 +4,14 @@
   <img src="https://komarev.com/ghpvc/?username=UrstrulyBhavana&label=Profile%20views&color=0e75b6&style=flat" alt="UrstrulyBhavana" />
 </p>
 
-<h3 align="center">React Developer | Firebase | TailwindCSS | Passionate About Modern UI & AI‑Powered Web Apps</h3>
+<h3 align="center">Front-End Developer | React.js | Firebase | TailwindCSS | OpenAI Integrations | Passionate About Scalable, Intelligent Web Apps</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
 - 🧠 5.7+ years of experience across enterprise-level & personal projects
-- 🔨 Building interactive apps with **React.js**, **Redux Toolkit**, and **Firebase**
+- 🔨 I specialize in crafting modern web applications using **React.js**, **Redux Toolkit**, **Firebase**, and **REST APIs**, backed by a strong foundation in UI/UX design and real-world implementation.
 - 🌐 Familiar with CMS workflows and HTML/CSS-driven UI implementations
 - 📍 Based in Hyderabad | Ex-Cognizant | Ex-GlobalLogic
 
@@ -36,6 +36,7 @@
 ![OpenAI API](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![TMDB API](https://img.shields.io/badge/-TMDB_API-01B4E4?style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-025E8C?style=flat&logo=api&logoColor=white)
 
 
 #### 🎨 UI/UX & Design Tools
@@ -56,10 +57,13 @@
 
 ### 📌 Pinned Projects
 
-- 🎬 [NetflixGPT](https://github.com/UrstrulyBhavana/Netflix-UI-with-OpenAI-GPT-Powered-Recommendations): AI-powered movie recommendation app integrating OpenAI's GPT and TMDB APIs in a Netflix-style UI.
-- 🛍️ [FashionHive](https://github.com/UrstrulyBhavana/FashionHive-Modern-Fashion-E-Commerce-Web-App): Full-featured multi-vendor e-commerce platform with vendor/customer dashboards, cart logic, invoices, and email templates.
-- 🍽️ [FlavorFiesta](https://github.com/UrstrulyBhavana/FlavorFiesta-Food-Ordering-App): React SPA for browsing restaurant menus with real-time cart, routing, and responsive layouts.
-- 🥗 [BM Feast](https://github.com/UrstrulyBhavana/BM-Feast-Online-Delivery-App): Online delivery platform designed for a smooth and dynamic food-ordering experience.
+| Project | Description |
+|--------|-------------|
+| [🎬 NetflixGPT](https://github.com/UrstrulyBhavana/Netflix-UI-with-OpenAI-GPT-Powered-Recommendations) | AI-powered movie recommendation app integrating OpenAI's GPT and TMDB APIs in a Netflix-style UI |
+| [🛍️ FashionHive](https://github.com/UrstrulyBhavana/FashionHive-Modern-Fashion-E-Commerce-Web-App) | Full-featured multi-vendor e-commerce platform with vendor/customer dashboards, cart logic, invoices, and email templates |
+| [🍽️ FlavorFiesta](https://github.com/UrstrulyBhavana/FlavorFiesta-Food-Ordering-App) | React SPA for browsing restaurant menus with real-time cart, routing, and responsive layouts |
+| [🥗 BM Feast](https://github.com/UrstrulyBhavana/BM-Feast-Online-Delivery-App) | Food ordering system with menu filters, delivery flows, and intuitive UI |
+
 ---
 
 ## 📊 GitHub Insights
@@ -84,4 +88,3 @@ While my public GitHub profile shows focused activity, my main priority has been
 ---
 
 > 💬 *“Consistency, clean code, and user-centered design are at the heart of every app I build.”*
-> 
