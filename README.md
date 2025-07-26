@@ -4,15 +4,15 @@
   <img src="https://komarev.com/ghpvc/?username=UrstrulyBhavana&label=Profile%20views&color=0e75b6&style=flat" alt="UrstrulyBhavana" />
 </p>
 
-<h3 align="center">Front-End Developer | React.js | Firebase | TailwindCSS | OpenAI Integrations | Passionate About Scalable, Intelligent Web Apps</h3>
+<h3 align="center">Front-End Developer | React.js | Firebase | TailwindCSS | OpenAI Integrations | Passionate About Scalable, Intelligent Web Interfaces</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
 - 🧠 5.7+ years of experience across enterprise-level & personal projects
-- 🔨 I specialize in crafting modern web applications using **React.js**, **Redux Toolkit**, **Firebase**, and **REST APIs**, backed by a strong foundation in UI/UX design and real-world implementation.
-- 🌐 Familiar with CMS workflows and HTML/CSS-driven UI implementations
+- 🔨 I craft modern web apps using React.js, Redux Toolkit, Firebase, and REST APIs, blending technical precision with user-centric design.
+- 🌐 Proficient in HTML/CSS-based layouts and CMS workflows for scalable UI implementation.
 - 📍 Based in Hyderabad | Ex-Cognizant | Ex-GlobalLogic
 
 ---
@@ -59,10 +59,10 @@
 
 | Project | Description |
 |--------|-------------|
-| [🎬 NetflixGPT](https://github.com/UrstrulyBhavana/Netflix-UI-with-OpenAI-GPT-Powered-Recommendations) | AI-powered movie recommendation app integrating OpenAI's GPT and TMDB APIs in a Netflix-style UI |
-| [🛍️ FashionHive](https://github.com/UrstrulyBhavana/FashionHive-Modern-Fashion-E-Commerce-Web-App) | Full-featured multi-vendor e-commerce platform with vendor/customer dashboards, cart logic, invoices, and email templates |
+| [🎬 NetflixGPT](https://github.com/UrstrulyBhavana/Netflix-UI-with-OpenAI-GPT-Powered-Recommendations) | React app for AI-powered movie recommendations using OpenAI GPT & TMDB APIs in a Netflix-style UI |
+| [🛍️ FashionHive](https://github.com/UrstrulyBhavana/FashionHive-Modern-Fashion-E-Commerce-Web-App) | React-based multi-vendor e-commerce app with dashboards, invoices, blogs and email templates |
 | [🍽️ FlavorFiesta](https://github.com/UrstrulyBhavana/FlavorFiesta-Food-Ordering-App) | React SPA for browsing restaurant menus with real-time cart, routing, and responsive layouts |
-| [🥗 BM Feast](https://github.com/UrstrulyBhavana/BM-Feast-Online-Delivery-App) | Food ordering system with menu filters, delivery flows, and intuitive UI |
+| [🥗 BM Feast](https://github.com/UrstrulyBhavana/BM-Feast-Online-Delivery-App) | React Food ordering system with menu filters, delivery flows, and intuitive UI |
 
 ---
 
@@ -85,4 +85,4 @@ While my public GitHub profile shows focused activity, my main priority has been
 
 ---
 
-> 💬 *“Consistency, clean code, and user-centered design are at the heart of every app I build.”*
+> 💬 *“Consistency, clean code, and thoughtful design are the core of every product I build.”*
