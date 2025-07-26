@@ -82,8 +82,6 @@ While my public GitHub profile shows focused activity, my main priority has been
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhavana-bm/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/UrstrulyBhavana)
-- 💼 [LinkedIn](https://www.linkedin.com/in/bhavana-bm/)
-- 📁 [GitHub Projects](https://github.com/UrstrulyBhavana?tab=repositories)
 
 ---
 
