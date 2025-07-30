@@ -7,13 +7,21 @@
 
 ##  About Me
 
-I’m a passionate front-end developer with **5.10 years of experience** delivering both enterprise-level and personal web applications.  
-I specialize in building **user-centric, performant, and modular UI systems** using modern technologies and design principles.
+I am a dedicated and detail-oriented Front-End Developer with over **5.10 years of professional experience** in building scalable, high-performance web applications.  
+My expertise lies in crafting **responsive, user-centric interfaces** using modern JavaScript frameworks and design systems.
 
--  Skilled in **React.js**, **Redux Toolkit**, **Firebase**, **REST APIs**, and **TailwindCSS**
--  Proficient in **HTML5/CSS3**, component-based architecture, and **responsive design**
--  Experienced with **API integrations**, **authentication flows**, and **real-time features**
--  Based in Hyderabad | Worked with **Cognizant** & **GlobalLogic**
+I specialize in:
+- **React.js** with **Redux Toolkit** for efficient state management and modular development  
+- **Firebase** for backend services including authentication, hosting, and Firestore  
+- **TailwindCSS**, **HTML5**, and **CSS3** for pixel-perfect UI implementation  
+- Seamless **REST API integration** and real-time functionality  
+- Building intuitive and accessible front-end solutions with a focus on performance and maintainability
+
+I have contributed to both enterprise and consumer-facing projects at leading firms like **Cognizant** and **GlobalLogic**, where I collaborated cross-functionally to deliver impactful web products.
+
+Based in **Hyderabad, India** | Open to remote or hybrid opportunities  
+
+> “ Passionate about clean code, scalable UI architecture, and delivering a seamless user experience.”
 
 ---
 
@@ -24,6 +32,13 @@ I specialize in building **user-centric, performant, and modular UI systems** us
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat&logo=redux)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 
