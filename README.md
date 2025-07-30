@@ -7,7 +7,7 @@
 
 ##  About Me
 
-I'm a passionate and detail-oriented Front-End Developer with over **5 years of professional experience** in delivering scalable and high-performance web applications.
+I'm a passionate and detail-oriented Front-End Developer with over **5+ years of professional experience** in delivering scalable and high-performance web applications.
 
 I specialize in crafting **user-centric, responsive interfaces** using modern JavaScript frameworks and design principles.
 
@@ -17,7 +17,7 @@ I specialize in crafting **user-centric, responsive interfaces** using modern Ja
 -  Collaborated with global teams at **Cognizant** and **GlobalLogic** to deliver robust digital products
 
 
- Based in **Hyderabad, India** | 💼 Open to remote or hybrid opportunities  
+ Based in **Hyderabad, India** | Open to remote or hybrid opportunities  
  Passionate about clean code, scalable UI systems, and intuitive user experiences
 
 ---
@@ -60,7 +60,7 @@ I specialize in crafting **user-centric, responsive interfaces** using modern Ja
 | 🍽️ [**FlavorFiesta**](https://github.com/UrstrulyBhavana/FlavorFiesta-Food-Ordering-App) | Restaurant menu browsing with filters, cart, and checkout in a React SPA |
 | 🍔 [**BM Feast**](https://github.com/UrstrulyBhavana/BM-Feast-Online-Delivery-App) | Food ordering app with intuitive menu navigation and order tracking |
 
-> ✅ Visit each repo to explore **features, folder structure, demos, and API usage**
+>  Visit each repo to explore **features, folder structure, demos, and API usage**
 
 ---
 
