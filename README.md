@@ -1,88 +1,76 @@
-<h1 align="center">Hi there 👋, I'm Bhavana</h1>
+# 👋 Hello there, I'm Bhavana!
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UrstrulyBhavana&label=Profile%20views&color=0e75b6&style=flat" alt="UrstrulyBhavana" />
-</p>
-
-<h3 align="center">Front-End Developer | React.js | Firebase | TailwindCSS | OpenAI Integrations | Passionate About Scalable, Intelligent Web Interfaces</h3>
+ **Front-End Developer | React.js | Firebase | TailwindCSS | OpenAI Integrations**  
+ *Crafting Intelligent, Scalable, and Aesthetically Rich Web Interfaces*
 
 ---
 
-### 👩‍💻 About Me
+##  About Me
 
-- 🧠 5.7+ years of experience across enterprise-level & personal projects
-- 🔨 I craft modern web apps using React.js, Redux Toolkit, Firebase, and REST APIs, blending technical precision with user-centric design.
-- 🌐 Proficient in HTML/CSS-based layouts and CMS workflows for scalable UI implementation.
-- 📍 Based in Hyderabad | Ex-Cognizant | Ex-GlobalLogic
+I’m a passionate front-end developer with **5.7+ years of experience** delivering both enterprise-level and personal web applications.  
+I specialize in building **user-centric, performant, and modular UI systems** using modern technologies and design principles.
 
----
-
-### 🧩 Tech Stack
-
-#### 👩‍💻 Front-End Development
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-
-#### 🔌 Back-End / Integrations
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![OpenAI API](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![TMDB API](https://img.shields.io/badge/-TMDB_API-01B4E4?style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-025E8C?style=flat&logo=api&logoColor=white)
-
-
-#### 🎨 UI/UX & Design Tools
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![PageMaker](https://img.shields.io/badge/-Adobe%20PageMaker-FF0000?style=flat&logo=adobe&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-
-
-#### ⚙️ Other Tools & Essentials
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
+-  Skilled in **React.js**, **Redux Toolkit**, **Firebase**, **REST APIs**, and **TailwindCSS**
+-  Proficient in **HTML5/CSS3**, component-based architecture, and **responsive design**
+-  Experienced with **API integrations**, **authentication flows**, and **real-time features**
+-  Based in Hyderabad | Worked with **Cognizant** & **GlobalLogic**
 
 ---
 
-### 📌 Pinned Projects
+##  Tech Stack
+
+### ⚛️ Front-End
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+
+###  Backend & APIs
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+![REST API](https://img.shields.io/badge/-REST_API-6E6E6E?style=flat)
+![TMDB](https://img.shields.io/badge/-TMDB_API-01B4E4?style=flat)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai)
+
+###  UI/UX & Design
+![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&logo=adobe-xd)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva)
+
+###  Tools & Essentials
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion)
+
+---
+
+##  Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| [🎬 NetflixGPT](https://github.com/UrstrulyBhavana/Netflix-UI-with-OpenAI-GPT-Powered-Recommendations) | React app for AI-powered movie recommendations using OpenAI GPT & TMDB APIs in a Netflix-style UI |
-| [🛍️ FashionHive](https://github.com/UrstrulyBhavana/FashionHive-Modern-Fashion-E-Commerce-Web-App) | React-based multi-vendor e-commerce app with dashboards, invoices, blogs and email templates |
-| [🍽️ FlavorFiesta](https://github.com/UrstrulyBhavana/FlavorFiesta-Food-Ordering-App) | React SPA for browsing restaurant menus with real-time cart, routing, and responsive layouts |
-| [🥗 BM Feast](https://github.com/UrstrulyBhavana/BM-Feast-Online-Delivery-App) | React Food ordering system with menu filters, delivery flows, and intuitive UI |
+| 🎬 [**NetflixGPT**](https://github.com/UrsrulyBhavana/Netflix-UI-with-OpenAI-GPT-Powered-Recommendations) | Movie recommender app using **GPT-3.5 Turbo** + **TMDB API** in a Netflix-style UI |
+| 🛍️ [**FashionHive**](https://github.com/UrsrulyBhavana/FashionHive-Modern-Fashion-E-Commerce-Web-App) | Multi-vendor e-commerce app with product filtering, dashboard, and email templates |
+| 🍽️ [**FlavorFiesta**](https://github.com/UrsrulyBhavana/FlavorFiesta-Food-Ordering-App) | Restaurant menu browsing with filters, cart, and checkout in a React SPA |
+| 🍔 [**BM Feast**](https://github.com/UrsrulyBhavana/BM-Feast-Online-Delivery-App) | Food ordering app with intuitive menu navigation and order tracking |
+
+> ✅ Visit each repo to explore **features, folder structure, demos, and API usage**
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
-While my public GitHub profile shows focused activity, my main priority has been developing and polishing **full-fledged applications** instead of scattered contributions or forks. I take pride in building production-level projects from the ground up — ensuring attention to performance, accessibility, and visual design.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UrstrulyBhavana&show_icons=true&theme=react&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrstrulyBhavana&layout=compact&theme=react" />
-</p>
+![Bhavana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UrsrulyBhavana&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UrsrulyBhavana&layout=compact&theme=radical)
 
 ---
 
-### 📫 Let's Connect
+##  Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhavana-bm/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/UrstrulyBhavana)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavana-bm)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/UrsrulyBhavana)
 
 ---
 
-> 💬 *“Consistency, clean code, and thoughtful design are the core of every product I build.”*
+> “*Consistency, clean code, and thoughtful design are the core of every product I build.*”
