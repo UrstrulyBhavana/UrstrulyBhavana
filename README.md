@@ -1,6 +1,6 @@
-# 👋 Hello there, I'm Bhavana!
+# 👋 Hello there, I'm Bhavana
 
- **Front-End Developer | React.js | Firebase | TailwindCSS | OpenAI Integrations**  
+### **Front-End Developer | React.js | Firebase | TailwindCSS | OpenAI Integrations**  
  *Crafting Intelligent, Scalable, and Aesthetically Rich Web Interfaces*
 
 ---
@@ -21,7 +21,7 @@ I have contributed to both enterprise and consumer-facing projects at leading fi
 
 Based in **Hyderabad, India** | Open to remote or hybrid opportunities  
 
-> “ Passionate about clean code, scalable UI architecture, and delivering a seamless user experience.”
+Passionate about clean code, scalable UI architecture, and delivering a seamless user experience.
 
 ---
 
@@ -76,7 +76,7 @@ Based in **Hyderabad, India** | Open to remote or hybrid opportunities
 
 ##  Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavana-bm)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavana-bm/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/UrstrulyBhavana)
 
 ---
