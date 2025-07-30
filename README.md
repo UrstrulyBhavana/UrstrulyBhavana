@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Bhavana
+# Hello, I'm Bhavana
 
 ### **Front-End Developer | React | Firebase | TailwindCSS | OpenAI Integration**  
 *Building scalable, performant, and visually compelling web applications with a focus on user experience.*
@@ -7,23 +7,19 @@
 
 ##  About Me
 
-#### I am a Front-End Developer with 5.10 years of experience in building scalable, performant, and responsive web applications. I specialize in crafting user-centric UI systems using modern frameworks and design principles.
+#### I am a Front-End Developer with **5.10 years** of experience in building scalable, performant, and responsive web applications. I specialize in crafting user-centric UI systems using modern frameworks and design principles.
 
-I bring deep expertise in React.js, Redux Toolkit, Firebase, and TailwindCSS, with strong proficiency in HTML5, CSS3, and component-based architecture.
+#### I bring deep expertise in **React.js**, **Redux Toolkit**, **Firebase**, and **TailwindCSS**, with strong proficiency in **HTML5**, **CSS3**, and component-based architecture.
 
 I have hands-on experience in:
+- Building modular and maintainable front-end code
+- Implementing real-time features and third-party API integrations
+- Developing secure authentication flows
+- Delivering enterprise-grade interfaces with optimized performance
 
-Building modular and maintainable front-end code
+I have worked with global teams at **Cognizant** and **GlobalLogic**, contributing to end-to-end project delivery across multiple domains.
 
-Implementing real-time features and third-party API integrations
-
-Developing secure authentication flows
-
-Delivering enterprise-grade interfaces with optimized performance
-
-I have worked with global teams at Cognizant and GlobalLogic, contributing to end-to-end project delivery across multiple domains.
-
-I am currently based in Hyderabad and open to opportunities that allow me to build impactful user experiences and grow as a UI-focused engineer.
+I am currently based in **Hyderabad** and open to opportunities that allow me to build impactful user experiences and grow as a UI-focused engineer.
 
 ---
 
