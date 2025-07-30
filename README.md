@@ -7,7 +7,7 @@
 
 ##  About Me
 
-I’m a passionate front-end developer with **5.7+ years of experience** delivering both enterprise-level and personal web applications.  
+I’m a passionate front-end developer with **5.10 years of experience** delivering both enterprise-level and personal web applications.  
 I specialize in building **user-centric, performant, and modular UI systems** using modern technologies and design principles.
 
 -  Skilled in **React.js**, **Redux Toolkit**, **Firebase**, **REST APIs**, and **TailwindCSS**
@@ -61,15 +61,15 @@ I specialize in building **user-centric, performant, and modular UI systems** us
 
 ## 📊 GitHub Stats
 
-![Bhavana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UrsrulyBhavana&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UrsrulyBhavana&layout=compact&theme=radical)
+![Bhavana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UrstrulyBhavana&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UrstrulyBhavana&layout=compact&theme=radical)
 
 ---
 
 ##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavana-bm)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/UrsrulyBhavana)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/UrstrulyBhavana)
 
 ---
 
