@@ -1,27 +1,24 @@
 # 👋 Hello there, I'm Bhavana
 
-### **Front-End Developer | React.js | Firebase | TailwindCSS | OpenAI Integrations**  
- *Crafting Intelligent, Scalable, and Aesthetically Rich Web Interfaces*
+### **Front-End Developer (Hyderabad, India) | React | Firebase | TailwindCSS | OpenAI Integration**  
+*Crafting intelligent, scalable, and visually compelling web interfaces.*
 
 ---
 
 ##  About Me
 
-I am a dedicated and detail-oriented Front-End Developer with over **5.10 years of professional experience** in building scalable, high-performance web applications.  
-My expertise lies in crafting **responsive, user-centric interfaces** using modern JavaScript frameworks and design systems.
+I'm a passionate and detail-oriented Front-End Developer with over **5 years of professional experience** in delivering scalable and high-performance web applications.
 
-I specialize in:
-- **React.js** with **Redux Toolkit** for efficient state management and modular development  
-- **Firebase** for backend services including authentication, hosting, and Firestore  
-- **TailwindCSS**, **HTML5**, and **CSS3** for pixel-perfect UI implementation  
-- Seamless **REST API integration** and real-time functionality  
-- Building intuitive and accessible front-end solutions with a focus on performance and maintainability
+I specialize in crafting **user-centric, responsive interfaces** using modern JavaScript frameworks and design principles.
 
-I have contributed to both enterprise and consumer-facing projects at leading firms like **Cognizant** and **GlobalLogic**, where I collaborated cross-functionally to deliver impactful web products.
+-  Proficient in **React.js**, **Redux Toolkit**, **Firebase**, **REST APIs**, and **TailwindCSS**
+-  Experienced in **component-driven architecture**, **responsive design**, and real-time UI updates
+-  Hands-on with **API integration**, **authentication flows**, and **performance optimization**
+-  Collaborated with global teams at **Cognizant** and **GlobalLogic** to deliver robust digital products
 
-Based in **Hyderabad, India** | Open to remote or hybrid opportunities  
 
-Passionate about clean code, scalable UI architecture, and delivering a seamless user experience.
+ Based in **Hyderabad, India** | 💼 Open to remote or hybrid opportunities  
+ Passionate about clean code, scalable UI systems, and intuitive user experiences
 
 ---
 
