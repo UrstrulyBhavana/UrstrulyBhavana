@@ -7,9 +7,9 @@
 
 ##  About Me
 
-#### I am a Front-End Developer with **5.10 years** of experience in building scalable, performant, and responsive web applications. I specialize in crafting user-centric UI systems using modern frameworks and design principles.
+ I am a Front-End Developer with **5.10 years** of experience in building scalable, performant, and responsive web applications. I specialize in crafting user-centric UI systems using modern frameworks and design principles.
 
-#### I bring deep expertise in **React.js**, **Redux Toolkit**, **Firebase**, and **TailwindCSS**, with strong proficiency in **HTML5**, **CSS3**, and component-based architecture.
+ I bring deep expertise in **React.js**, **Redux Toolkit**, **Firebase**, and **TailwindCSS**, with strong proficiency in **HTML5**, **CSS3**, and component-based architecture.
 
 I have hands-on experience in:
 - Building modular and maintainable front-end code
