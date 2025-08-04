@@ -1,25 +1,24 @@
 # Hello, I'm Bhavana
 
-### **Front-End Developer | React | Firebase | TailwindCSS | OpenAI Integration**  
-*Building scalable, performant, and visually compelling web applications with a focus on user experience.*
+### **Front-End Developer | React.js | Firebase | TailwindCSS | OpenAI Integration**  
+*Crafting performant, scalable, and accessible web applications with a strong focus on user experience and clean design.*
 
 ---
 
-##  About Me
+## 🚀 About Me
 
- I am a Front-End Developer with **5.10 years** of experience in building scalable, performant, and responsive web applications. I specialize in crafting user-centric UI systems using modern frameworks and design principles.
+I’m a passionate **Front-End Developer** with **5 years and 10 months** of experience in building modern, responsive, and user-centric web applications. My strength lies in turning design ideas into functional digital interfaces using the latest front-end technologies.
 
- I bring deep expertise in **React.js**, **Redux Toolkit**, **Firebase**, and **TailwindCSS**, with strong proficiency in **HTML5**, **CSS3**, and component-based architecture.
+I specialize in:
+- **Component-based architecture** with **React.js** and **Redux Toolkit**
+- **Real-time features**, **API integrations**, and **secure auth flows** using **Firebase**
+- **Utility-first CSS** and **responsive layouts** with **TailwindCSS**
+- **Performance tuning** for fast and smooth UI experiences
+- **Collaborative delivery** with global teams and agile practices
 
-I have hands-on experience in:
-- Building modular and maintainable front-end code
-- Implementing real-time features and third-party API integrations
-- Developing secure authentication flows
-- Delivering enterprise-grade interfaces with optimized performance
+Previously, I’ve contributed to real-time UI solutions at **Cognizant** and **GlobalLogic**, working across diverse domains.
 
-I have worked with global teams at **Cognizant** and **GlobalLogic**, contributing to end-to-end project delivery across multiple domains.
-
-I am currently based in **Hyderabad** and open to opportunities that allow me to build impactful user experiences and grow as a UI-focused engineer.
+📍 Based in **Hyderabad** | Open to full-time/remote front-end opportunities.
 
 ---
 
@@ -79,4 +78,4 @@ I am currently based in **Hyderabad** and open to opportunities that allow me to
 
 ---
 
-> “*Consistency, clean code, and thoughtful design are the core of every product I build.*”
+<p align="center"><i>“Consistency, clean code, and thoughtful design are the core of every product I build.”</i></p>
