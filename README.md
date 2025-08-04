@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m a passionate **Front-End Developer** with **5 years and 10 months** of experience in building modern, responsive, and user-centric web applications. My strength lies in turning design ideas into functional digital interfaces using the latest front-end technologies.
 
@@ -18,7 +18,7 @@ I specialize in:
 
 Previously, I’ve contributed to real-time UI solutions at **Cognizant** and **GlobalLogic**, working across diverse domains.
 
-📍 Based in **Hyderabad** | Open to full-time/remote front-end opportunities.
+ Based in **Hyderabad** | Open to full-time/remote front-end opportunities.
 
 ---
 
