@@ -66,8 +66,6 @@ Previously, I’ve contributed to real-time UI solutions at **Cognizant** and **
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![Bhavana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UrstrulyBhavana&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UrstrulyBhavana&layout=compact&theme=radical)
 
