@@ -57,7 +57,7 @@ Previously, I’ve contributed to real-time UI solutions at **Cognizant** and **
 |--------|-------------|
 | 🎬 [**NetflixGPT**](https://github.com/UrstrulyBhavana/Netflix-UI-with-OpenAI-GPT-Powered-Recommendations) | Movie recommender app using **GPT-3.5 Turbo** + **TMDB API** in a Netflix-style UI |
 | 🛍️ [**FashionHive**](https://github.com/UrstrulyBhavana/FashionHive-Modern-Fashion-E-Commerce-Web-App) | Multi-vendor e-commerce app with product filtering, dashboard, and email templates |
-| 🍽️ [**FlavorFiesta**](https://github.com/UrstrulyBhavana/FlavorFiesta-Food-Ordering-App) | Restaurant menu browsing with filters, cart, and checkout in a React SPA |
+| 🍽️ [**FlavorFiesta**](https://github.com/UrstrulyBhavana/Flavour-Fiesta-Food-Delivery-App-Frontend-React-TailwindCSS/tree/master) | Restaurant menu browsing with filters, cart, and checkout in a React SPA |
 | 🍔 [**BM Feast**](https://github.com/UrstrulyBhavana/BM-Feast-Online-Delivery-App) | Food ordering app with intuitive menu navigation and order tracking |
 
 >  Visit each repo to explore **features, folder structure, demos, and API usage**
